@@ -45,10 +45,6 @@ To run the project locally, follow these steps:
     Start the Laravel development server and the React development server.
     Access the application in your web browser and explore its features.
 
-Contributing
-
-Contributions to this project are welcome! You can contribute by fixing bugs, adding new features, or improving the documentation. Please follow the guidelines outlined in the CONTRIBUTING.md file.
-License
 
 
 
